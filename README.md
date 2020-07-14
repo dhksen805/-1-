@@ -5,8 +5,10 @@
 <ul>
       <li>로그인 / 로그아웃
         <dl>
-      <dt>WWW</dt>
-      <dd>WWW represents World Wide Web.</dd>
+      <dt>로그인 세션이 없을시</dt>
+      <dd>login | join 을 헤더에 보여줌</dd>
+      <dt>로그인 세션이 있을시</dt>
+      <dd>현재 세션 아이디 | logout | 회원정보 수정을 보여줌</dd>
     </dl>
   </li>
       <li>회원가입</li>

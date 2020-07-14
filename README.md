@@ -50,9 +50,8 @@
         <dl>
       <dt>파일 업로드</dt>
       <dd>MultipartRequest 객체를 이용해 파일업로드 기능 구현</dd>
-      <dt></dt>
-      <dd>작성자 이름과 비밀번호 입력</dd>
     </dl>
+         <li>작성자 이름과 비밀번호 입력</li>
 </ul>
 </blockquote><br>
 

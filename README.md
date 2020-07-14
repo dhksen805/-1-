@@ -36,7 +36,7 @@
       <dt>Submit</dt>
       <dd>Submit 버튼 클릭시 입력된 정보 DB에 저장</dd>
       <dt>Cancel</dt>
-      <dd>Cancel 버튼 클릭시 입력된 정보 </dd>
+      <dd>Cancel 버튼 클릭시 입력된 정보 리셋</dd>
     </dl>
 </ul>
 </blockquote>

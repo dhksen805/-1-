@@ -11,12 +11,13 @@
       <dd>현재 세션 아이디 | logout | 회원정보 수정을 헤어에 보여줍니다.</dd>
     </dl>
   </li>
-      <li>회원가입(join)<br>
+      <li>회원가입(join)
   <dl>
+    <dt></dt>
       <dd>회원가입 페이지로 이동</dd>
     </dl>
   </li>
-     > <li>링크를 이용해 게시판 이동</li>
+      <li>링크를 이용해 게시판 이동</li>
 </ul>
 <br>
 <img src="/img/펀웹2.png" width="40%" height="30%" alt="home"></img><br>

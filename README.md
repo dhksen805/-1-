@@ -1,10 +1,12 @@
 # JSP model1 홈페이지
 <br><br>
-  <h3>메인</h3>
+  <h3>메인</h3><br>
+  <img src="/img/펀웹1.png" width="40%" height="30%" alt="home"></img>
   
   <blockquote>
+  <pre>
 <ul>
-  <img src="/img/펀웹1.png" width="40%" height="30%" alt="home"></img>
+  
       <li>로그인 / 로그아웃
         <dl>
       <dt>로그인 세션이 없을시</dt>
@@ -21,6 +23,7 @@
   </li>
       <li>링크를 이용해 게시판 이동</li>
 </ul>
+<
 </blockquote>
 <br>
 <img src="/img/펀웹2.png" width="40%" height="30%" alt="home"></img><br>

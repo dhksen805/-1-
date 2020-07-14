@@ -4,9 +4,9 @@
   <img src="/img/펀웹1.png" width="40%" height="30%" alt="home"></img>
   
   <blockquote>
-  <pre>
-<ul>
   
+<ul>
+  <pre>
       <li>로그인 / 로그아웃
         <dl>
       <dt>로그인 세션이 없을시</dt>
@@ -21,9 +21,9 @@
       <dd>회원가입 페이지로 이동</dd>
     </dl>
   </li>
-      <li>링크를 이용해 게시판 이동</li>
+      <li>링크를 이용해 게시판 이동</li></pre>
 </ul>
-</pre>
+
 </blockquote>
 <br>
 <img src="/img/펀웹2.png" width="40%" height="30%" alt="home"></img><br>

@@ -1,7 +1,6 @@
 # JSP model1 홈페이지
 <br><br>
   <h3>메인</h3>
-<img src="/img/펀웹1.png" width="40%" height="30%" alt="home"></img>
 <ul>
   <img src="/img/펀웹1.png" width="40%" height="30%" alt="home"></img>
       <li>로그인 / 로그아웃

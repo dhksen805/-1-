@@ -1,6 +1,8 @@
 # JSP model1 홈페이지
 <br><br>
   <h3>메인</h3>
+  
+  <blockquote>
 <ul>
   <img src="/img/펀웹1.png" width="40%" height="30%" alt="home"></img>
       <li>로그인 / 로그아웃
@@ -19,6 +21,7 @@
   </li>
       <li>링크를 이용해 게시판 이동</li>
 </ul>
+</blockquote>
 <br>
 <img src="/img/펀웹2.png" width="40%" height="30%" alt="home"></img><br>
 <img src="/img/펀웹3-1.png" width="40%" height="30%" alt="home"></img><br>

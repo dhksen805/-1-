@@ -1,6 +1,6 @@
 # JSP model1 
 모델1홈페이지
-
+<img src="![펀웹1](https://user-images.githubusercontent.com/62527682/87399101-d46e2580-c5f1-11ea-9045-01bc5f36d8ad.png)" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 ![펀웹1](https://user-images.githubusercontent.com/62527682/87399101-d46e2580-c5f1-11ea-9045-01bc5f36d8ad.png)
 ![펀웹2](https://user-images.githubusercontent.com/62527682/87399108-d7691600-c5f1-11ea-87e0-a7bc35b37298.png)
 ![편웹3](https://user-images.githubusercontent.com/62527682/87399111-d801ac80-c5f1-11ea-8f19-d577f60c26aa.png)

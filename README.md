@@ -1,7 +1,8 @@
 # JSP model1 
-JSP 홈페이지<br>
+<h2>JSP 홈페이지<h2><br><br>
+  <h3>메인</h3>
 <img src="/img/펀웹1.png" width="40%" height="30%" alt="home"></img>
-<h3>메인 페이지</h3>
+
 <br>
 <img src="/img/펀웹2.png" width="40%" height="30%" alt="home"></img><br>
 <img src="/img/펀웹3-1.png" width="40%" height="30%" alt="home"></img><br>

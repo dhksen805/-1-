@@ -1,5 +1,5 @@
-# JSP model1 
-<h2>JSP 홈페이지<h2><br><br>
+# JSP model1 홈페이지
+<br><br>
   <h3>메인</h3>
 <img src="/img/펀웹1.png" width="40%" height="30%" alt="home"></img>
 

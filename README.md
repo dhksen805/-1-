@@ -33,8 +33,10 @@
         <dl>
       <dt>아이디 중복확인</dt>
       <dd>버튼 클릭시 DB에 저장된 아이디 확인 후 아이디 중복 판별</dd>
-      <dt></dt>
+      <dt>Submit</dt>
       <dd>Submit 버튼 클릭시 입력된 정보 DB에 저장</dd>
+      <dt>Cancel</dt>
+      <dd>Cancel 버튼 클릭시 입력된 정보 </dd>
     </dl>
 </ul>
 </blockquote>

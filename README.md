@@ -1,10 +1,10 @@
 # JSP model1 홈페이지
 <br><br>
   <h3>메인</h3><br>
-  <img src="/img/펀웹1.png" width="40%" height="30%" alt="home"></img>
   
-  <blockquote>
-  
+  <!-- 사진1 -->
+<img src="/img/펀웹1.png" width="40%" height="30%" alt="home"></img>
+<blockquote>
 <ul>
       <li>로그인 / 로그아웃
         <dl>
@@ -24,7 +24,21 @@
 </ul>
 </blockquote>
 <br>
-<img src="/img/펀웹2.png" width="40%" height="30%" alt="home"></img><br>
+
+   <!-- 사진2 -->
+<img src="/img/펀웹2.png" width="40%" height="30%" alt="home"></img>
+<blockquote>
+<ul>
+      <li>회원가입
+        <dl>
+      <dt>아이디 중복확인</dt>
+      <dd>버튼 클릭시 DB에 저장된 아이디 확인 후 아이디 중복 판별</dd>
+      <dt></dt>
+      <dd>Submit 버튼 클릭시 입력된 정보 DB에 저장</dd>
+    </dl>
+</ul>
+</blockquote>
+<br>
 <img src="/img/펀웹3-1.png" width="40%" height="30%" alt="home"></img><br>
 <img src="/img/편웹3.png" width="40%" height="30%" alt="home"></img>
 <img src="/img/펀웹4.png" width="40%" height="30%" alt="home"></img><br>

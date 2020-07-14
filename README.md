@@ -1,7 +1,7 @@
 # JSP model1 홈페이지
 <br><br>
   <h3>메인</h3><br>
-  <img src="/img/펀웹1.png" width="50%" height="40%" alt="home"></img>
+  <img src="/img/펀웹1.png" width="40%" height="30%" alt="home"></img>
   
   <blockquote>
   
